@@ -1,6 +1,6 @@
 name: sclak
 favicon: null
-layout_spectrum: 0.04459741176106036
+layout_spectrum: 1
 typography_spectrum: 0.8240289033856243
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#f9fafb'
+    - '#7b2a8f'
+    - '#000000'
+    - '#9d6d63'
+    - '#ff0000'
   brandStrength: 0.3369440452661365
   lightness: 0.9392482328694314
   saturation: 0.8173646805807948
